@@ -94,28 +94,32 @@ $(document).ready(function () {
       setTimeout(function(){
         $(".java_name").animate({ fontSize: "+=30px" }, 500);
         $(".java_name").animate({ letterSpacing: "+=15px" }, 1000);
-        $(".adobe_name").animate({ fontSize: "+=30px" }, 500);
-        $(".adobe_name").animate({ letterSpacing: "+=15px" }, 1000);
+        $(".php_name").animate({ fontSize: "+=30px" }, 500);
+        $(".php_name").animate({ letterSpacing: "+=15px" }, 1000);
         $(".android_name").animate({ fontSize: "+=30px" }, 500);
         $(".android_name").animate({ letterSpacing: "+=15px" }, 1000);
         $(".ajax_name").animate({ fontSize: "+=30px" }, 500);
         $(".ajax_name").animate({ letterSpacing: "+=15px" }, 1000);
         $(".sql_name").animate({ fontSize: "+=30px" }, 500);
         $(".sql_name").animate({ letterSpacing: "+=15px" }, 1000);
+        $(".bootstrap_name").animate({ fontSize: "+=30px" }, 500);
+        $(".bootstrap_name").animate({ letterSpacing: "+=15px" }, 1000);
   
 
 
         setTimeout(function () {
           $(".java_name").animate({ fontSize: "-=30px" }, 500);
           $(".java_name").animate({ letterSpacing: "-=15px" }, 1000);
-          $(".adobe_name").animate({ fontSize: "-=30px" }, 500);
-          $(".adobe_name").animate({ letterSpacing: "-=15px" }, 1000);
+          $(".php_name").animate({ fontSize: "-=30px" }, 500);
+          $(".php_name").animate({ letterSpacing: "-=15px" }, 1000);
           $(".android_name").animate({ fontSize: "-=30px" }, 500);
           $(".android_name").animate({ letterSpacing: "-=15px" }, 1000);
           $(".ajax_name").animate({ fontSize: "-=30px" }, 500);
           $(".ajax_name").animate({ letterSpacing: "-=15px" }, 1000);
           $(".sql_name").animate({ fontSize: "-=30px" }, 500);
           $(".sql_name").animate({ letterSpacing: "-=15px" }, 1000);
+          $(".bootstrap_name").animate({ fontSize: "-=30px" }, 500);
+          $(".bootstrap_name").animate({ letterSpacing: "-=15px" }, 1000);
           animate_names();
           }, 4000);
       }, 2000);

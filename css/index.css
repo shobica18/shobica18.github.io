@@ -9,6 +9,12 @@ h1{
     font-weight: bold;
 }
 
+h5{
+  color: white;
+  font-weight: bold;
+
+}
+
 .main{
     position: relative;
     margin-bottom: 100px;
@@ -97,13 +103,13 @@ p{
       top: 50%;
     }
     
-    .adobe_name {
+    .php_name {
       position: absolute;
       left: 68%;
       top: 30%;
     }
     
-    .adobe_prof {
+    .php_prof {
       position: absolute;
       left: 68%;
       top: 50%;
@@ -111,27 +117,40 @@ p{
 
     .ajax_name {
       position: absolute;
-      left: 28%;
+      left: 15%;
       top: 70%;
     }
     
     .ajax_prof {
       position: absolute;
-      left: 28%;
+      left: 15%;
       top: 90%;
     }
   
     .sql_name {
       position: absolute;
-      left: 53%;
+      left: 38%;
       top: 70%;
     }
     
     .sql_prof {
       position: absolute;
-      left: 53%;
+      left: 38%;
       top: 90%;
     }
+
+    .bootstrap_name {
+      position: absolute;
+      left: 63%;
+      top: 70%;
+    }
+    
+    .bootstrap_prof {
+      position: absolute;
+      left: 63%;
+      top: 90%;
+    }
+
 
     .class10_board {
       position: absolute;
