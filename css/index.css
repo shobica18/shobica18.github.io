@@ -1,0 +1,319 @@
+body{
+
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main{
+    position: relative;
+    margin-bottom: 100px;
+    max-width: 100%;
+
+}
+
+.title{
+    position: absolute;
+    top: 30%;
+   left: 8%;
+    color:black;
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.sub_title{
+    position: absolute;
+    top: 42%;
+    left: 10%;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.see_resume{
+    position: absolute;
+    top: 47%;
+    left: 20%;;
+    padding: 10px 20px;
+    background-color: yellow;
+    border-color: yellow;
+    color: black;
+    font-weight: bold;
+    outline: none;
+    cursor: pointer;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    padding: 20px;
+  }
+  
+  .specilization {
+    text-align: center;
+    position: relative;
+  }
+  
+  .specilization_title {
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 30px;
+    color: white;
+  }
+  
+  .img_spec {
+      border-radius: 15px;
+      margin-right: 20px;
+      margin-top: 50px;
+    }
+    
+  
+  .java_name {
+      position: absolute;
+      left: 15%;
+      top:30%;
+    }
+    
+  .java_prof {
+      position: absolute;
+      left: 15%;
+      top: 50%;
+    }
+    
+  
+    .android_name {
+      position: absolute;
+      left: 38%;
+      top: 30%;
+    }
+    
+    .android_prof {
+      position: absolute;
+      left: 38%;
+      top: 50%;
+    }
+    
+    .adobe_name {
+      position: absolute;
+      left: 68%;
+      top: 30%;
+    }
+    
+    .adobe_prof {
+      position: absolute;
+      left: 68%;
+      top: 50%;
+    }
+
+    .ajax_name {
+      position: absolute;
+      left: 28%;
+      top: 70%;
+    }
+    
+    .ajax_prof {
+      position: absolute;
+      left: 28%;
+      top: 90%;
+    }
+  
+    .sql_name {
+      position: absolute;
+      left: 53%;
+      top: 70%;
+    }
+    
+    .sql_prof {
+      position: absolute;
+      left: 53%;
+      top: 90%;
+    }
+
+    .class10_board {
+      position: absolute;
+      left: 13%;
+      top:50%;
+    }
+
+    .class10_name {
+      position: absolute;
+      left: 13%;
+      top:55%;
+    }
+    
+  .class10_prof {
+      position: absolute;
+      left: 13%;
+      top: 60%;
+    }
+
+
+    .class12_board {
+      position: absolute;
+      left: 39%;
+      top:50%;
+    }
+
+    .class12_name {
+      position: absolute;
+      left: 39%;
+      top:55%;
+    }
+    
+  .class12_prof {
+      position: absolute;
+      left: 39%;
+      top: 60%;
+    }
+
+    .clg_name {
+      position: absolute;
+      left: 65%;
+      top:50%;
+      
+    }
+
+    .clg_course{
+      position: absolute;
+      left: 65%;
+      top:55%;
+      
+    }
+    
+  .clg_prof {
+      position: absolute;
+      left: 65%;
+      top: 60%;
+      
+    }
+    
+  h2 {
+      font-weight: bold;
+      color: white;
+    }
+
+
+
+
+
+    .desc {
+      text-align: left;
+      color: black;
+      color: white;
+    }
+    
+    
+    
+    .project_title {
+        font-weight: bolder;
+        font-size: 30px;
+        text-align: center;
+        color: white;
+        margin-bottom: 30px;
+      }
+    
+      .project_img {
+        text-align: center;
+      }
+      
+      .prev {
+        margin-bottom: 200px;
+      }
+      
+      .next {
+        margin-bottom: 200px;
+      }
+      
+      .actual_img {
+        border-radius: 15px;
+      }
+      
+    
+      .project_desc {
+        margin-left: 180px;
+      }
+      
+      .project_content {
+        text-align: left;
+        color: white;
+      }
+      
+      .project_name {
+        text-align: left;
+        color: white;
+        margin-left: 20px;
+      }
+    
+      .resume {
+      text-align: center;
+      padding-bottom: 200px;
+      padding-top: 50px;
+      position: relative;
+    }
+    
+    .img_container {
+      float: left;
+      width: 33%;
+      padding-top: 50px;
+    }
+    
+    
+    .contact_me {
+      margin-top: 20px;
+      text-align: center;
+      justify-content: left;
+    }
+    .img_resume{
+      border-radius: 15px;
+      margin-right: 20px;
+      margin-top: 50px;
+
+    }
+
+
+    .animation {
+      -webkit-animation-name: move;
+              animation-name: move;
+      -webkit-animation-duration: .4s;
+              animation-duration: .4s;
+      -webkit-animation-fill-mode: both;
+              animation-fill-mode: both;
+      -webkit-animation-delay: 2s;
+              animation-delay: 2s;
+    }
+
+    .a1 {
+      -webkit-animation-delay: 0.5s;
+              animation-delay: 0.5s;
+    }
+
+    .a2 {
+      -webkit-animation-delay: 0.6s;
+              animation-delay: 0.6s;
+    }
+    .a3 {
+      -webkit-animation-delay: 0.7s;
+              animation-delay: 0.7s;
+    }
+    .a4 {
+      -webkit-animation-delay: 0.8s;
+              animation-delay: 0.8s;
+    }
+    @keyframes move {
+      0% {
+        opacity: 0;
+        visibility: hidden;
+        -webkit-transform: translateY(-40px);
+                transform: translateY(-40px);
+      }
+      100% {
+        opacity: 1;
+        visibility: visible;
+        -webkit-transform: translateY(0);
+                transform: translateY(0);
+      }
+    }
